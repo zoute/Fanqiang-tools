@@ -16,6 +16,10 @@
    15.00 CNY,包含：永久授权&更新&售后
 ## β版
    100.00 CNY,包含：永久授权&更新&售后 + Express VPN 1~2年使用权（随机抽1年~两年，看运气）
+# 速度测试
+> Speedtest测试(美国服务器):D=5.2MB/s  U=11.3MB/s
+
+> Speedtest By O测试:D=2.6MB/s  U=1.2MB/s
 
 # 官网
 http://siyiit.seve.ink/fq
