@@ -29,7 +29,7 @@ Speedtest测试(美国服务器):D=5.2MB/s  U=11.3MB/s
 
 Speedtest By O测试:D=2.6MB/s  U=1.2MB/s
 
-# 4.购买
+# 购买
 1.到这里购买对应版本并在捎给作者的话里留下你的QQ：https://afdian.net/@fq-tools
 
 2.加QQ2706992599获取工具箱
